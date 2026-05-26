@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-L4RCRC1_SQLEXPRESS.DWH"
+  DTS:DTSID="{2E3D9E4E-A836-4243-8CF9-4D4A6BBE28FC}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-L4RCRC1;Initial Catalog=DWH;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-DWH_OLIST-{2E3D9E4E-A836-4243-8CF9-4D4A6BBE28FC}DESKTOP-L4RCRC1\SQLEXPRESS.DWH;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
